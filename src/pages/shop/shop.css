@@ -1,0 +1,13 @@
+.products {
+    width: 50%;
+    display: inline;
+}
+
+img {
+    width: 50%;
+    border-radius: 5px;
+    border: 2px burlywood solid;
+}
+.product {
+    margin-top: 5%;
+}
